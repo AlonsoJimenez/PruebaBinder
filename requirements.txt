@@ -181,7 +181,7 @@ python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1600278
 python-language-server @ file:///tmp/build/80754af9/python-language-server_1607972495879/work
 pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
 PyWavelets @ file:///C:/ci/pywavelets_1601658407916/work
-#pywin32==227
+pywin32==227
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.4.1
@@ -224,7 +224,7 @@ statsmodels==0.12.2
 sympy @ file:///C:/ci/sympy_1618255511605/work
 tables==3.6.1
 tblib @ file:///tmp/build/80754af9/tblib_1597928476713/work
-#terminado==0.9.4
+terminado==0.9.4
 testpath @ file:///home/ktietz/src/ci/testpath_1611930608132/work
 textdistance @ file:///tmp/build/80754af9/textdistance_1612461398012/work
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
